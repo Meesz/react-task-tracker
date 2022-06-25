@@ -25,6 +25,7 @@ const App = () => {
   };
 
   const fetchTask = async (id) => {
+    console.log(id);
     const res = await fetch(`http://localhost:3000/tasks/${id}`);
     const data = await res.json();
 
