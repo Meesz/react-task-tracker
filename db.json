@@ -1,21 +1,9 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "school",
-      "day": "today",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "work",
-      "day": "today",
-      "reminder": true
-    },
-    {
       "text": "sd",
       "day": "sd",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
@@ -23,6 +11,12 @@
       "day": "hf",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "hjkhkj",
+      "day": "jh",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
