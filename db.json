@@ -11,6 +11,18 @@
       "text": "work",
       "day": "today",
       "reminder": true
+    },
+    {
+      "text": "sd",
+      "day": "sd",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "gj",
+      "day": "hf",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
